@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhaina+2&family=Josefin+Sans:wght@200&family=Montserrat:wght@100&family=New+Tegomin&family=Source+Code+Pro:ital,wght@1,200&display=swap');
+
+.root {
+    --font1: 'Baloo Bhaina 2', cursive;
+    --font2: 'Roboto Flex', sans-serif;
+}
+
+.maxwidth1 {
+    max-width: 80vw;
+}
+.maxwidth2 {
+    max-width: 60vw;
+}
+
+.mauto {
+    margin: auto;
+}
+.temp{
+    margin-top: 5rem;
+}
+.btn {
+    padding-left: 0.3vw;
+    padding-right: 0.3vw;
+    border-radius: 0.5rem;
+    font-size: 1vw;
+    font-family: 'Baloo Bhaina 2', cursive;
+    cursor: pointer;
+}
+.btn a{
+    text-decoration: none;
+    color: black;
+}
+.formcontrol {
+    font-family: 'Baloo Bhaina 2', cursive;
+    border-radius: 0.5rem;
+    padding-left: 0.3vw;
+    padding-right: 0.3vw;
+    font-size: 1vw;
+    margin-right: 0.5rem;
+}
+
+.foot {
+    display: flex;
+    justify-content: center;
+    height: 3rem;
+    background-color: rgb(247, 171, 84);
+    margin-top: 7rem;
+    font-size: 1.5vw;
+    font-family: 'Baloo Bhaina 2', cursive;
+}

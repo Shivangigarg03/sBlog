@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhaina+2&family=Josefin+Sans:wght@200&family=Montserrat:wght@100&family=New+Tegomin&family=Source+Code+Pro:ital,wght@1,200&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    height: 5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+#image{
+    width: 4rem;
+    height: 4rem;
+    margin-right: 1rem;
+}
+.left ul{
+    font-family:'Baloo Bhaina 2', cursive;
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+}
+.left ul li{
+    margin-right: 1rem;
+    font-size: 1.5vw;
+    text-decoration: none;
+}
+.left ul li a{
+    color: black;
+    text-decoration: none;
+}
+.leftc img{
+    width: 100%;
+    margin-top: 5vw;
+}
+.rightc{
+    margin-top:5rem;
+}
+p{
+    font-size: 1.2rem;
+    padding: 0.4rem;
+    font-family:'Roboto Flex', sans-serif;
+}
+h3{
+    font-size:1.2vw;
+    font-family:'Baloo Bhaina 2', cursive;
+    margin-top: 1rem;
+    margin-left: 0.5rem;
+}
+h2{
+    font-family:'Baloo Bhaina 2', cursive;
+    font-size:1.5vw;
+    margin-left: 0.5rem;
+}
+.btn1{
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 2rem;
+}
+.btn1 a{
+    text-decoration: none;
+    color: black;
+}
+#textb{
+    display: block;
+    margin: 0 auto;
+    margin-top: 5rem;
+    border-radius: 2rem;
+}
+.btn2{
+        display: block;
+        margin: 0 auto;
+        margin-bottom: 2rem;
+        margin-top: 1rem;
+}
+.post1{
+    height: 24.5rem;
+}

@@ -1,0 +1,61 @@
+.mid{
+    height: 395px;
+    display: flex;
+    margin-top: 8vw;
+    font-family: 'Baloo Bhaina 2', cursive;
+    background: linear-gradient(rgba(250, 250, 250, 0.8),
+            rgba(250, 250, 250, 0.8)), url("/img/11.png");
+}
+h1{
+    font-size: 2.3vw;
+}
+p{
+    font-size: 1.2vw;
+}
+.rightmid img{
+    width: 17vw;
+    border-radius: 10rem;
+    border: 2px solid black;
+    margin: 2rem;
+}
+p,h1{
+    margin-left: 1rem;
+}
+.form1{
+    font-family: 'Roboto Flex', sans-serif;
+    position: absolute;
+    right: 20vw;
+}
+.homearticleimage{
+    width: 15vw;
+    border-radius: 1rem;
+    margin: 1rem 1rem;
+}
+.bottom{
+    display: flex;
+    background-color: rgb(252, 243, 229);
+}
+.homearticle{
+    display: flex;
+}
+h2{
+    font-family: 'Baloo Bhaina 2', cursive;
+}
+h3{
+    margin: 1rem;
+}
+.articles a{
+    color: black;
+    text-decoration: none;
+    font-family:'Roboto Flex', sans-serif;
+}
+.text1{
+    margin-left: 1rem;
+    font-family:'Baloo Bhaina 2', cursive;
+    font-size: 1.1vw;
+}
+#h{
+    margin: 0rem 0.1rem;
+    margin-top: 3rem;
+    font-family: 'Baloo Bhaina 2', cursive;
+}
